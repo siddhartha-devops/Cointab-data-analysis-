@@ -22,13 +22,17 @@ https://drive.google.com/file/d/1NjYY0t8ed4fcLEvgQl9DIqFluUkVL3GF/view
 ## How to run
 
  With working directory as project directory run command:
+ 
  ` python solution.py`
+ 
  After running command you get an output csv file name (final_output.csv).
  For summary report ,with working directory as project directory run command:
+ 
  ` python summary.py`
 
 ## Result
 To check the resultant dataset go to the output dataset folder in working directory.
+
 output-:
 1. final_output.csv
 2. summary_output.csv
