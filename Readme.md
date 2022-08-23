@@ -1,5 +1,4 @@
-﻿	Cointab Software Private Limited  
-	Data Analyst - Challenge
+﻿	Cointab Software Private Limited Data Analyst - Challenge
 	
 ## Description
 
