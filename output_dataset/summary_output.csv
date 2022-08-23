@@ -1,0 +1,4 @@
+field,count,sum
+Total Orders - Correctly Charged,22,9796.699999999995
+Total Orders - Over Charged,79,-4426.5999999999985
+Total Orders - Under Charged,23,575.1
